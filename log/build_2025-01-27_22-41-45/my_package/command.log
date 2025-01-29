@@ -1,0 +1,2 @@
+Invoking command in '/home/gopika/dev_ws/build/my_package': /usr/bin/cmake /home/gopika/dev_ws/src/my_package -DCMAKE_INSTALL_PREFIX=/home/gopika/dev_ws/install/my_package
+Invoked command in '/home/gopika/dev_ws/build/my_package' returned '1': /usr/bin/cmake /home/gopika/dev_ws/src/my_package -DCMAKE_INSTALL_PREFIX=/home/gopika/dev_ws/install/my_package
